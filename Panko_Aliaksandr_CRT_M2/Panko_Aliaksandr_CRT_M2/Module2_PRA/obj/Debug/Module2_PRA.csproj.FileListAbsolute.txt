@@ -1,0 +1,7 @@
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\bin\Debug\Module2_PRA.exe.config
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\bin\Debug\Module2_PRA.exe
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\bin\Debug\Module2_PRA.pdb
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\obj\Debug\Module2_PRA.csprojAssemblyReference.cache
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\obj\Debug\Module2_PRA.csproj.CoreCompileInputs.cache
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\obj\Debug\Module2_PRA.exe
+D:\Projects\IN PROGRESS\WQU\USA university\13. Data Feeds and Technology\WQU_DFT_M2_CR_Skeleton\WQU_DFT_M2_CR_Skeleton\Module2_PRA\obj\Debug\Module2_PRA.pdb
